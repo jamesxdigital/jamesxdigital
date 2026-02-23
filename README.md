@@ -61,14 +61,14 @@ Dotfiles, server configs, and the tools that keep everything running.
 
 ---
 
-## 🌶️ OddSauce
+## 🤝 Tiny Team Studio
 
-A sports platform — landing page, tooling and AI-powered asset management.
+Marketing and AI consultancy for founder-led small businesses — built with Katie.
 
 | Repo | |
 |------|---|
-| 🔒 [`oddsauce.com`](https://github.com/jamesxdigital/oddsauce.com) | 🌐 Landing page — Vite, TypeScript, TailwindCSS |
-| 🔒 [`oddsauce-dam`](https://github.com/jamesxdigital/oddsauce-dam) | 🔍 AI-powered DAM with SigLIP 2 semantic image search |
+| 🔒 [`tinyteam.studio`](https://github.com/jamesxdigital/tinyteam.studio) | 🌐 Website — Vite, TypeScript, TailwindCSS |
+| 🔒 [`tinyteamstudio-dam`](https://github.com/jamesxdigital/tinyteamstudio-dam) | 🔍 AI-powered DAM with SigLIP 2 semantic image search |
 
 ---
 

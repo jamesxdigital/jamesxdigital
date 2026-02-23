@@ -16,7 +16,7 @@ This is the GitHub profile README for `jamesxdigital` — shown publicly at gith
 | 🔧 Infrastructure & Config | Dotfiles, server configs, workspace repos, personal tools/skills |
 | 🏠 Personal | Personal websites, portfolio, notes, archived projects |
 | 💼 Clients | Client work |
-| 🌶️ OddSauce | OddSauce sports platform repos |
+| 🤝 Tiny Team Studio | Tiny Team Studio repos |
 | 🎨 Emoji Library | Emoji system repos |
 
 Add new sections if a coherent group of 2+ repos warrants it.
