@@ -46,10 +46,20 @@ Dotfiles, server configs, and the tools that keep everything running.
 | Repo | |
 |------|---|
 | 🔒 [`radiatoractivity.com`](https://github.com/jamesxdigital/radiatoractivity.com) | 🎨 Client website |
-| 🔒 [`oddsauce.com`](https://github.com/jamesxdigital/oddsauce.com) | 🌶️ OddSauce sports platform website |
 | 🔒 [`louisacreative.co.uk`](https://github.com/jamesxdigital/louisacreative.co.uk) | ✨ Louisa Creative portfolio |
 | 🔒 [`dunelmcottage.co.uk`](https://github.com/jamesxdigital/dunelmcottage.co.uk) | 🏡 Peak District luxury holiday cottage |
 | 🔒 [`sudip-adventure-trails`](https://github.com/jamesxdigital/sudip-adventure-trails) | 🏔️ Adventure trails website |
+
+---
+
+## 🌶️ OddSauce
+
+A sports platform — landing page, tooling and AI-powered asset management.
+
+| Repo | |
+|------|---|
+| 🔒 [`oddsauce.com`](https://github.com/jamesxdigital/oddsauce.com) | 🌐 Landing page — Vite, TypeScript, TailwindCSS |
+| 🔒 [`oddsauce-dam`](https://github.com/jamesxdigital/oddsauce-dam) | 🔍 AI-powered DAM with SigLIP 2 semantic image search |
 
 ---
 
@@ -62,11 +72,3 @@ A full emoji system built for creative applications — Adobe CEP extension, BFF
 | 🔒 [`emoji-library`](https://github.com/jamesxdigital/emoji-library) | 😄 Adobe CEP extension bringing 9,000+ emoji to creative apps |
 | 🔒 [`emoji-library-bff`](https://github.com/jamesxdigital/emoji-library-bff) | ⚡ BFF service for emoji generation and token management |
 | [`emoji-data`](https://github.com/jamesxdigital/emoji-data) | 🗄️ Emoji data and metadata |
-
----
-
-## 🧪 Experiments & Prototypes
-
-| Repo | |
-|------|---|
-| 🔒 [`oddsauce-dam`](https://github.com/jamesxdigital/oddsauce-dam) | 🔍 AI-powered DAM with SigLIP 2 semantic image search |
