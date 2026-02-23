@@ -17,7 +17,6 @@ Dotfiles, server configs, and the tools that keep everything running.
 | 🔒 [`jamesxopenclaw-workspace`](https://github.com/jamesxdigital/jamesxopenclaw-workspace) | 🧠 OpenClaw agent memory, skills and identity |
 | 🔒 [`hs-openclaw-dotfiles`](https://github.com/jamesxdigital/hs-openclaw-dotfiles) | 🤖 HS OpenClaw (SalesClaw) Raspberry Pi 5 server config |
 | 🔒 [`hs-openclaw-workspace`](https://github.com/jamesxdigital/hs-openclaw-workspace) | 🧠 HS OpenClaw agent workspace for SalesClaw swarm |
-| 🔒 [`jamesxclawdbot-config`](https://github.com/jamesxdigital/jamesxclawdbot-config) | 🤖 ClawdBot server config and sync scripts |
 | 🔒 [`jamesxpi-dotfiles`](https://github.com/jamesxdigital/jamesxpi-dotfiles) | 🫐 Raspberry Pi 5 — Jellyfin, qBittorrent, NordVPN |
 | 🔒 [`jamesxserver-dotfiles`](https://github.com/jamesxdigital/jamesxserver-dotfiles) | ☁️ Hetzner VPS config and sync scripts |
 | [`jamesxskills`](https://github.com/jamesxdigital/jamesxskills) | ⚡ AI agent skills for Claude Code, Codex and Gemini CLI |
